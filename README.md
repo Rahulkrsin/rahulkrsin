@@ -28,6 +28,8 @@ Currently open for full-time/intern job roles in frontend development
 
 - Areas for interests - Front-end Development Back-end Development and Full stack Development
 
+- Gmail id : rk7514396@gmail.com
+
 <h3 align="left">Languages and Tools:</h3>
 
 <p>
